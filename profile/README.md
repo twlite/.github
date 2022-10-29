@@ -1,4 +1,4 @@
-![Logo](https://media.discordapp.net/attachments/1035853332876644352/1035918984098357300/logo.png)
+![Logo](/profile/assets/logo.png)
 
 <h1 align="center">Welcome to Know Nepal 👋</h1>
 
