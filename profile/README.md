@@ -1,4 +1,4 @@
-![Logo](./assets/logo.png)
+![Logo](assets/logo.png)
 
 <h1 align="center">Welcome to Know Nepal 👋</h1>
 
